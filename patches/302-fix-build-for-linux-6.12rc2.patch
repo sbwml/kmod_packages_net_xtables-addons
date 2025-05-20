@@ -1,6 +1,6 @@
 --- a/extensions/xt_ipp2p.c
 +++ b/extensions/xt_ipp2p.c
-@@ -3,7 +3,11 @@
+@@ -6,7 +6,11 @@
  #include <linux/netfilter_ipv4/ip_tables.h>
  #include <net/tcp.h>
  #include <net/udp.h>
